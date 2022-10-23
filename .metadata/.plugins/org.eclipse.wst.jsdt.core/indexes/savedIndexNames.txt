@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Asus\Downloads\com.devpro.shop14\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1145463678.index
+3792269003.index
+1007230786.index
+735237144.index
+260073571.index
+3797170857.index

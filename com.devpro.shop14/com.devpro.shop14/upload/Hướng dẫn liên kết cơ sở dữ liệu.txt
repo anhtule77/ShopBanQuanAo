@@ -1,0 +1,7 @@
+Liên kết cơ sở dữ liệu ở lớp Database
+Tài khoản quản lý
+	TenTK: Admin	
+	MK:123
+Tài khoản nhân viên
+	TenTK:tuan
+	MK:123
